@@ -16672,3 +16672,8 @@ to explore life. Also, Python and Django Developer
  - Place: West Bengal, India
  - Bio: Learning Web Dev & Design
  - GitHub: [lenkachinmoy](https://github.com/lenkachinmoy)
+
+#### Name: [Arpan Samanta](https://github.com/arpan1998)
+ - Place: West Bengal, India
+ - Bio: JGEC EE student
+ - GitHub: [arpan1998](https://github.com/arpan1998)
